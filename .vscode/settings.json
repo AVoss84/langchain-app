@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/home/alexv84/anaconda3/envs/env_langchain/bin/python",  
+    //"python.defaultInterpreterPath": "/Users/mn9lu5b/miniforge3/envs/env_bhad/bin/python",   
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
